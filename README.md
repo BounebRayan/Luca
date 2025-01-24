@@ -20,7 +20,7 @@ Ensure you have the following installed:
 - **Node.js** and **npm** for the frontend.  
 - **Python** and **pip** for the backend.  
 
-# Backend Setup
+## Backend Setup
 
 -Navigate to the backend directory of the project and install the required **transformers** dependency
 ```bash
@@ -29,7 +29,7 @@ pip install transformers
 
 - Download the GPT-2 model file from [this link](https://drive.google.com/file/d/1XYYWyIYbZfPRpO5FsCGwKL-HMp5arU01/view?usp=share_link) and place it in the backend folder with app.py.
 
-# Running the Application
+## Running the Application
 1- Start the frontend server
 
 2- Start the backend server in a separate terminal
