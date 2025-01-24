@@ -10,8 +10,8 @@ Luca is a chatbot powered by a GPT-2 machine learning model. Designed to enterta
 
 ## Screenshots
 
+![shot6](https://i.ibb.co/HpJq50p/241837883-8aaae84b-2df2-455f-8c0f-d10fda3d3685.png)
 ![shot7](https://i.ibb.co/RBLnWhW/241837917-68379919-2d85-4019-8b3a-531cd6ada584.png)
-![shot6](https://i.ibb.co/82skPjk/241837883-8aaae84b-2df2-455f-8c0f-d10fda3d3685.png)
 
 _Above: A glimpse of the funny and engaging responses I got while chatting with the model_
 
@@ -27,7 +27,7 @@ Ensure you have the following installed:
 pip install transformers
 ```
 
-- Download the GPT-2 model file from [this link}(https://drive.google.com/file/d/1XYYWyIYbZfPRpO5FsCGwKL-HMp5arU01/view?usp=share_link) and place it in the backend folder with app.py.
+- Download the GPT-2 model file from [this link](https://drive.google.com/file/d/1XYYWyIYbZfPRpO5FsCGwKL-HMp5arU01/view?usp=share_link) and place it in the backend folder with app.py.
 
 # Running the Application
 1- Start the frontend server
